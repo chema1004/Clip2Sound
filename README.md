@@ -171,14 +171,3 @@ Si encuentras algún problema o tienes sugerencias:
 
 </div>
 
-## 📸 Capturas de Pantalla
-
-*(Incluirías aquí imágenes de la interfaz, pero como no puedo subir archivos, puedes agregar:)*
-
-```
-📱 Interfaz de Login - Diseño oscuro moderno
-📱 Ventana Principal - Panel de control intuitivo  
-📱 Historial de Descargas - Lista organizada por fecha
-```
-
-¡Disfruta usando Clip2Sound! 🎧
